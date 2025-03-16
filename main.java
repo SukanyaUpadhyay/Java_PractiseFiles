@@ -19,7 +19,7 @@ public class main {
     public static void main(String[] args) {
         Animals animal = new Animals();
         animal.sound();
-        Cat cat = new Cat();
-        cat.sound();
+        // Cat cat = new Cat();
+        // cat.sound();
     }
 }
